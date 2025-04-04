@@ -1,0 +1,9 @@
+POST http://localhost:11435/api/chat
+
+{
+    "model": "erwan2/DeepSeek-R1-Distill-Qwen-1.5B:latest",
+    "message": [{
+        "role": "user",
+        "message": "Why is sky blue?"
+    }]
+}
