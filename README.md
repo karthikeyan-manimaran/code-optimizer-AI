@@ -1,6 +1,5 @@
 # Code Optimizer AI
 
-![Code Optimizer AI](https://github.com/yourusername/code-optimizer/raw/main/public/logo.png)
 
 ## Description
 
