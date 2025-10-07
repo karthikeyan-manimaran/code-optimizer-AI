@@ -48,7 +48,7 @@ Code Optimizer AI is built using a modern tech stack:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/code-optimizer.git
+git clone https://github.com/karthikeyan-manimaran/code-optimizer.git
 
 # Navigate to the project directory
 cd code-optimizer
